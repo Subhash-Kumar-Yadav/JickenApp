@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jicken</string>
+    <string name="facebook">facebook</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="create_an_account">Create an account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--    BottomNavigationView Menu-->
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="list">List</string>
+    <string name="profile">Profile</string>
+</resources>
